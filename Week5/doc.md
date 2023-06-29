@@ -1,0 +1,2 @@
+Week 5:
+Week five will be dedicated to functions and modules. We will learn about the concept of functions and how to create our own functions in Python. We will explore how functions can be used to break down complex tasks into smaller, reusable pieces of code. We will also cover function arguments and return values, which allow us to pass information into a function and get results back. Additionally, we will introduce the concept of modules and how to utilize built-in Python modules to enhance our programs.

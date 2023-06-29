@@ -1,0 +1,2 @@
+Week 3:
+Week three will focus on accepting input from the user and working with basic control structures such as loops. We will explore how to create loops that allow us to repeat a set of instructions multiple times. We will also learn about compound conditions using logical operators to make more complex decisions in our programs. Through practice problems and exercises, students will gain confidence in using loops and control structures to solve problems.

@@ -1,0 +1,2 @@
+Week 2:
+In week two, we will dive into strings and string manipulation. We will explore the concept of strings and learn how to work with them in Python. We will cover string indexing and slicing, which allows us to extract specific characters or substrings from a string. Additionally, we will learn about string methods that enable us to manipulate and modify strings. We will practice combining strings using concatenation and learn about string formatting. By the end of this week, students will have a good understanding of working with strings in Python.

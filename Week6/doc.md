@@ -1,0 +1,2 @@
+Week 6:
+In week six, we will delve into dictionaries, another useful data structure in Python. We will learn how to create dictionaries, which allow us to store key-value pairs. We will explore dictionary operations such as accessing, modifying, and deleting elements. We will also practice working with dictionaries in various scenarios to solve problems.
