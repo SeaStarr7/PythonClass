@@ -1,0 +1,2 @@
+Week 7:
+Week seven will focus on using libraries in Python. We will introduce the concept of Python libraries and discuss how they can extend the functionality of our programs. We will learn how to install and import libraries and explore commonly used libraries such as pygame and random. Through hands-on exercises, students will gain experience in utilizing libraries to perform more advanced tasks in their programs.

@@ -1,0 +1,2 @@
+Week 8:
+In the final week, we will cover file input/output and exceptions. We will learn how to read and write files using Python, allowing us to work with external data sources. We will also explore exception handling, which enables us to handle errors gracefully and provide error messages to users. By the end of this week, students will have a solid understanding of file input/output and exception handling, making their programs more robust and error-tolerant.

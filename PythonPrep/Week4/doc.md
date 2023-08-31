@@ -1,0 +1,2 @@
+Week 4:
+In week four, we will introduce lists and explore how to work with them in Python. Lists are a powerful data structure that allows us to store multiple values in a single variable. We will learn how to create lists, access individual elements using indexing, and extract specific sublists using slicing. We will also cover common list operations such as adding or removing elements, sorting, and looping through lists using for loops. By the end of this week, students will understand how to effectively work with lists in their programs.

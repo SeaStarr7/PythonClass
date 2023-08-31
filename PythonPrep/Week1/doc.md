@@ -1,0 +1,2 @@
+Week 1:
+In week one, we will introduce the Python programming language and cover the basics of programming. We will learn about variables and data types, arithmetic operations, and how to print output to the console. We will also explore basic control structures such as if statements and learn how to accept input from the user. By the end of this week, students will have a solid foundation in Python programming and will be ready to tackle more advanced topics.
