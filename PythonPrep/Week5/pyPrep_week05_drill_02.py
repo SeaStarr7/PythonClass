@@ -6,17 +6,11 @@
 
 
 
-def single():
-    char = input("enter a single character")
-    if len(char) > 1:
-        return False
-    else:
-        return char
-    
 
 
 
-print(single())
+
+
 
 
 

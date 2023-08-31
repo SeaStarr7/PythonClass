@@ -10,12 +10,12 @@
 import sys
 import time
 
-def textCrawl(a_string):
-    for char in a_string:
-        time.sleep(0.1)
-        print(char, end = "")
 
-hi = "STAR WARS it is a desperate time in the galaxy Luke skywalker has diareah"
 
-textCrawl(hi)
+
+
+
+
+
+
 

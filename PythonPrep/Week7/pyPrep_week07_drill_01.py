@@ -7,13 +7,7 @@
 # https://docs.python.org/3/library/math.html
 # -------------------------------------------------------------------------------------------
 
-import math
 
-def findHypotenuse(a, b):
-    c = math.sqrt((a * a) + (b * b))
-    return c
-
-findHypotenuse(4, 5)
 
 
 

@@ -35,17 +35,6 @@ while running:
         if event.type == pygame.QUIT:
             running = False
     
-    
-    keys = pygame.key.get_pressed()
-    
-    if keys[pygame.K_LEFT] and x > 0:
-        x  -= vel
-    if keys[pygame.K_DOWN] and y < window_height - height:
-        y += vel
-    if keys[pygame.K_RIGHT] and x < window_width - width:
-        x += vel
-    if keys[pygame.K_UP] and y > 0:
-        y -= vel
         
         
     # Clear the window
@@ -54,7 +43,6 @@ while running:
     
 
     # Draw shapes here!
-    pygame.draw.polygon(window, (255, 171, 0), [(400, 200), (500, 300), (200, 550)])
     pygame.draw.rect(window, (0, 119, 255), (x, y, width, height))
 
 
